@@ -1,0 +1,14 @@
+{
+  "appId": "com.pelicancampus.cars",
+  "appName": "Pelican Campus Cars",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#0D1017",
+    "webContentsDebuggingEnabled": false
+  }
+}
